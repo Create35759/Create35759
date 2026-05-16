@@ -15,8 +15,7 @@
 
 <!-- ===================== NEURAL NETWORK ===================== -->
 🧠 Neural Network Engine
-<p align="center"> <img src="https://raw.githubusercontent.com/your-username/assets/main/neural-network.svg" width="700"/> </p>
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="700"/>
 ⚡ Intelligence emerges from connected systems
 
 <!-- ===================== FOOTER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f2d,100:000000&height=140&section=footer"/> </p> <p align="center"> 🧠 Built in neural space • ⚡ Powered by curiosity • 🚀 Driven by systems thinking </p> ```
