@@ -9,17 +9,6 @@
 </p>
 
 ---
-
-<!-- ===================== ABOUT ===================== -->
-
-## 🌌 About Me
-
-```bash
-> identity: AI/ML Researcher + Systems Engineer
-> mindset: curiosity → abstraction → intelligence → systems
-> mission: build scalable intelligent systems
-> belief: intelligence is structured computation
-
 <!-- ===================== CONNECT ===================== -->
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/ayush-sharma-b08169355/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://neurips.cc/"> <img src="https://img.shields.io/badge/NeurIPS-Research%20Conference-FF6B6B?style=for-the-badge&logo=ai&logoColor=white"/> </a> </p>
@@ -31,3 +20,13 @@
 ⚡ Intelligence emerges from connected systems
 
 <!-- ===================== FOOTER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f2d,100:000000&height=140&section=footer"/> </p> <p align="center"> 🧠 Built in neural space • ⚡ Powered by curiosity • 🚀 Driven by systems thinking </p> ```
+
+<!-- ===================== ABOUT ===================== -->
+
+## 🌌 About Me
+
+```bash
+> identity: AI/ML Researcher + Systems Engineer
+> mindset: curiosity → abstraction → intelligence → systems
+> mission: build scalable intelligent systems
+> belief: intelligence is structured computation
